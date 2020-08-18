@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[AndroidStudio].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/[ICON NAME].svg" />
