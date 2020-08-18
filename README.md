@@ -12,7 +12,7 @@
 
 -->
 ### Connect with me:
-<img height="32" width="32" src="https://simpleicons.org/icons/facebook.svg" />  <img height="32" width="32" src="https://simpleicons.org/icons/linkedin.svg" />  <img height="32" width="32" src="https://simpleicons.org/icons/instagram.svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/facebook.svg" />          <img height="32" width="32" src="https://simpleicons.org/icons/linkedin.svg" />           <img height="32" width="32" src="https://simpleicons.org/icons/instagram.svg" />
 
 
 
