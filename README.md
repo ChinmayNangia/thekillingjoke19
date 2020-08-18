@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love anime and sports
-
+<br><br>
 
 
 ### Connect with me:
@@ -46,5 +46,10 @@ src="https://w7.pngwing.com/pngs/35/950/png-transparent-eclipse-foundation-integ
 src="https://w7.pngwing.com/pngs/394/193/png-transparent-learning-python-programming-language-computer-programming-logo-studio-flex-design-blue-angle-text-thumbnail.png"/>
 <img align="left" alt="Visual Studio Code" width="26px" 
 src="https://w7.pngwing.com/pngs/359/1024/png-transparent-firebase-cloud-messaging-computer-icons-google-cloud-messaging-android-angle-triangle-computer-programming-thumbnail.png"/>
+<br><br>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thekillingjoke19&hide=contribs,prs&theme=dracula)
 
+<br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekillingjoke19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
