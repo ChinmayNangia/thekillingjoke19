@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="32" width="32" src="https://simpleicons.org/icons/androidstudio/[AndroidStudio].svg" />
+<img height="32" width="32" src="https://simpleicons.org/icons/androidstudio.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/[ICON NAME].svg" />
