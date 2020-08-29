@@ -7,8 +7,6 @@
 
 
 ## I'm a Developer
-
-- 🔭 I’m currently working on a [flutter Flashchat]
 - 🌱 I’m currently learning dart programming language
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute  to Open Source projects
