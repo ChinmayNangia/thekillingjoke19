@@ -9,7 +9,7 @@
 ## I'm a  Mobile App Developer
 - 🌱 I’m currently learning dart programming language
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute  to Open Source projects
+- 🥅 2021 Goals: Contribute  to Open Source projects
 - ⚡ Fun fact: I love anime and sports
 <br><br>
 
