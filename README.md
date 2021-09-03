@@ -1,6 +1,5 @@
 ### Hi there, I'm chinmay  👋
-<script src="https://tryhackme.com/badge/505216"></script>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/Lucif3er.png" alt="TryHackMe">
 
 
 
