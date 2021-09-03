@@ -1,4 +1,5 @@
 ### Hi there, I'm chinmay  👋
+<script src="https://tryhackme.com/badge/505216"></script>
 
 
 
@@ -6,8 +7,8 @@
 
 
 
-## I'm a  Mobile App Developer
-- 🌱 I’m currently learning dart programming language
+## I'm a CyberSec Student 
+- 🌱 I’m currently getting better InfoSec industry by doing CTF's
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute  to Open Source projects
 - ⚡ Fun fact: I love anime and sports
