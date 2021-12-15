@@ -15,7 +15,9 @@
 - ⚡ Fun fact: I love anime and sports
 <br><br>
 
+### TryHackMe Profile
 
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Lucif3er.png" alt="TryHackMe">
 ### Connect with me:
 
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
@@ -55,6 +57,4 @@ src="https://w7.pngwing.com/pngs/359/1024/png-transparent-firebase-cloud-messagi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekillingjoke19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
-### TryHackMe Profile
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/Lucif3er.png" alt="TryHackMe">
