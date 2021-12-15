@@ -24,8 +24,8 @@
 <br>
 
 ### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+ 
+ <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="android  Studio Code" width="26px" 
 src="https://w7.pngwing.com/pngs/672/934/png-transparent-android-studio-integrated-development-environment-java-mobile-app-development-android-logo-mobile-app-development-android-software-development-thumbnail.png" />
 <img align="left" alt="Visual Studio Code" width="26px" 
@@ -53,3 +53,8 @@ src="https://w7.pngwing.com/pngs/359/1024/png-transparent-firebase-cloud-messagi
 <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekillingjoke19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br><br>
+### TryHackMe Profile
+
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Lucif3er.png" alt="TryHackMe">
