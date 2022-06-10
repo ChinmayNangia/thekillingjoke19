@@ -11,7 +11,7 @@
 ## I'm a CyberSec Student 
 - 🌱 I’m currently getting better InfoSec industry by doing CTF's
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute  to Open Source projects
+- 🥅 2022 Goals: Contribute  to Open Source projects
 - ⚡ Fun fact: I love anime and sports
 <br><br>
 
