@@ -10,7 +10,7 @@
 
 ## I'm a CyberSec Student 
 - 🌱 I’m currently getting better InfoSec industry by doing CTF's and Certifications . 
-- 👯 Currently completed EJPT 
+- 👯 Currently completed EJPT and CEH Practical
 - 🥅 2022 Goals: Contribute  to Open Source projects
 - ⚡ Fun fact: I love anime and sports
 <br><br>
