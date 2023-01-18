@@ -1,14 +1,5 @@
-### Hi there, I'm chinmay  👋
-
-
-
-
-
-
-
-
-
 ## I'm a CyberSec Student 
+ # 💫 About Me:
 - 🌱 I’m currently getting better InfoSec industry by doing CTF's and Certifications . 
 - 👯 Currently completed EJPT and CEH Practical
 - 🥅 2022 Goals: Contribute  to Open Source projects
@@ -18,44 +9,20 @@
 ### TryHackMe Profile
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/Lucif3er.png" alt="TryHackMe">
- 
-### Connect with me:
 
-<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<br>
 
-### Languages and Tools:
- 
- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="android  Studio Code" width="26px" 
-src="https://w7.pngwing.com/pngs/672/934/png-transparent-android-studio-integrated-development-environment-java-mobile-app-development-android-logo-mobile-app-development-android-software-development-thumbnail.png" />
-<img align="left" alt="Visual Studio Code" width="26px" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" 
-src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" 
-src="https://w7.pngwing.com/pngs/666/815/png-transparent-dart-google-chrome-web-application-flutter-darts-blue-angle-triangle-thumbnail.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" 
-src="https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo-thumbnail.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" 
-src="https://w7.pngwing.com/pngs/35/950/png-transparent-eclipse-foundation-integrated-development-environment-ceylon-jetty-eclipse-sirius-purple-text-logo-thumbnail.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" 
-src="https://w7.pngwing.com/pngs/394/193/png-transparent-learning-python-programming-language-computer-programming-logo-studio-flex-design-blue-angle-text-thumbnail.png"/>
-<img align="left" alt="Visual Studio Code" width="26px" 
-src="https://w7.pngwing.com/pngs/359/1024/png-transparent-firebase-cloud-messaging-computer-icons-google-cloud-messaging-android-angle-triangle-computer-programming-thumbnail.png"/>
-<br><br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thekillingjoke19&hide=contribs,prs&theme=dracula)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chinmay_nangia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay-nangia) 
 
-<br><br>
+# 💻 Tech Stack:
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat&logo=Prezi&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Thekillingjoke19&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Thekillingjoke19&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thekillingjoke19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekillingjoke19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![](https://visitcount.itsvg.in/api?id=Thekillingjoke19&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br><br>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
