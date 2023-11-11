@@ -1,5 +1,5 @@
  # 💫 About Me:
-- 🌱 I’m currently working on EDR and Firewall
+- 🌱 I’m currently working on EDR,VAPT and EDR 
 - 👯 I'm looking to collaborate on Bug Bounty and CTF's
 - 🥅 I'm Currently learning web security and Web App pentesting
 - 💫 Ask me about EDR and firewall
